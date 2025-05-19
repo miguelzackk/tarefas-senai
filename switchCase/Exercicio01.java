@@ -95,7 +95,8 @@ public class Exercicio01 {
 			}
 
 		} while (i == 1);
-
+		
+		sc.close();
 	}
 
 }
